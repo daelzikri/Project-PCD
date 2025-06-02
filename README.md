@@ -30,6 +30,7 @@ Terdapat beberapa metode yang di terapkan dalam preprocessing proyek ini, yaitu:
 - Histogram Equalization: Menyamakan distribusi intensitas piksel.
 - Median Filter: Mengurangi noise pada citra.
 - Dilation: Menonjolkan fitur pada citra.
+- Opening: Menghilangkan noise kecil pada citra biner. 
 - Thresholding: Mengubah citra grayscale menjadi citra biner (hitam-putih).
 #### Berdasarkan Metode yang sudah di sebutkan, terdapat 3 percobaan berbeda yang telah di lakukan untuk tahap preprocessing;
 - Percobaan pertama : histogram_equalization --> median_filter --> thresholding
