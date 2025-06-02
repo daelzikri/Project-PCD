@@ -8,12 +8,9 @@
 
 # Project Overview
 
-### Latar Belakang
-Skoliosis adalah kelainan pada tulang belakang sehingga tulang belakang melengkung ke sisi kiri atau kanan. Biasanya skoliosis ini terdeteksi ketika pasien/penderita melakukan pemeriksaan dengan Rontgen atau alat medis lainnya saat MCU, terjadi kecelakaan, dan saat tulang belakang terasa tidak nyaman atau berbeda. Proyek ini
+<p align = justify>Skoliosis adalah kelainan pada tulang belakang sehingga tulang belakang melengkung ke sisi kiri atau kanan. Biasanya skoliosis ini terdeteksi ketika pasien/penderita melakukan pemeriksaan dengan Rontgen atau alat medis lainnya saat MCU, terjadi kecelakaan, dan saat tulang belakang terasa tidak nyaman atau berbeda. Proyek ini
 bertujuan untuk membangun sebuah sistem yang mampu mendeteksi kelainan tulang belakang pada manusia pada hasil Rontgen, sehingga sistem dapat secara otomatis memilah skoliosis menurut arah kemiringannya.
-
-### Tujuan Proyek
-Proyek ini bertujuan untuk membangun model klasifikasi citra digital yang mampu membedakan antara citra tulang belakang normal dan citra tulang belakang dengan skoliosis. Dengan pendekatan ini, diharapkan proses identifikasi dapat dilakukan secara otomatis dan efisien menggunakan metode-metode ekstraksi fitur dan algoritma machine learning.
+Proyek ini bertujuan untuk membangun model klasifikasi citra digital yang mampu membedakan antara citra tulang belakang normal dan citra tulang belakang dengan skoliosis. Dengan pendekatan ini, diharapkan proses identifikasi dapat dilakukan secara otomatis dan efisien menggunakan metode-metode ekstraksi fitur dan algoritma machine learning</p>
 
 ### Dataset
 Dataset yang digunakan dalam proyek ini terdiri dari citra rontgen (X-ray) tulang belakang manusia yang dikategorikan ke dalam dua kelas utama, yaitu:
