@@ -32,9 +32,9 @@ Terdapat beberapa metode yang di terapkan dalam preprocessing proyek ini, yaitu:
 - Dilation: Menonjolkan fitur pada citra.
 - Thresholding: Mengubah citra grayscale menjadi citra biner (hitam-putih).
 #### Berdasarkan Metode yang sudah di sebutkan, terdapat 3 percobaan berbeda yang telah di lakukan untuk tahap preprocessing;
-- Percobaan pertama : histogram_equalization --> median_filter --> dilation
+- Percobaan pertama : histogram_equalization --> median_filter --> thresholding
 - Percobaan kedua : histogram_equalization --> median_filter --> thresholding --> dilation
-- Percobaan ketiga : median_filter --> dilation --> histogram_equalization
+- Percobaan ketiga : histogram_equalization --> median_filter --> thresholding --> opening --> dilation
 
 ## 3. Ekstraksi Fitur
 - Menggunakan metode GLCM (Gray-Level Co-occurrence Matrix) pada 4 sudut (0°, 45°, 90°, 135°).
